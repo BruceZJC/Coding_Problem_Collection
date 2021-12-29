@@ -16,5 +16,3 @@
 |[去掉String中连续重复的词](https://github.com/BruceZJC/Coding_Problem_Collection/blob/main/%E5%8E%BB%E6%8E%89String%E4%B8%AD%E8%BF%9E%E7%BB%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E8%AF%8D%201e16a08fb7604baf9222187e845b373c.md)|	正则中的group概念	|正则表达式RegExp	|中等Medium|
 |[二叉树的右视图](https://github.com/BruceZJC/Coding_Problem_Collection/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%8F%B3%E8%A7%86%E5%9B%BE%20b416855269e944eca8cdfc9cc9871bae.md)|	二叉树	|广度优先搜索BFS, 深度优先搜索DFS	|中等Medium|
 |[缺失的第一个正整数](https://github.com/BruceZJC/Coding_Problem_Collection/blob/main/%E7%BC%BA%E5%A4%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B4%E6%95%B0%209becb65bbd5e46059028afb3e478fbb6.md)|数组 |哈希表|	数组内替换Substitution|	困难Difficult|
-
-![image](https://user-images.githubusercontent.com/59980547/147699358-5207075c-ebe5-4b75-b849-8fd92e877cd8.png)
